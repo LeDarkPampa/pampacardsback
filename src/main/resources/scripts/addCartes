@@ -1,0 +1,650 @@
+[
+ {
+  "nom": "Seigneur vampire",
+  "clan": "Mort-Vivant",
+  "type": "Air",
+  "effet": "Vampirisme : Gagne 1 pour chaque carte dans la défausse adverse",
+  "rarete": 2,
+  "puissance": 4,
+  "image_path": "path"
+ },
+ {
+  "nom": "Sporosaurus",
+  "clan": "Dinosaure",
+  "type": "Champignon",
+  "effet": "Symbiose : Gagne 1 par carte dans votre deck",
+  "rarete": 0,
+  "puissance": 4,
+  "image_path": "path"
+ },
+ {
+  "nom": "Eaux déchainées",
+  "clan": "Pirate",
+  "type": "Eau",
+  "effet": "Tsunami : -1 à toutes les cartes adverses",
+  "rarete": 0,
+  "puissance": 4,
+  "image_path": "path"
+ },
+ {
+  "nom": "Vengeur Tonnerre",
+  "clan": "Super-héros",
+  "type": "Electricité",
+  "effet": "Paralysie : Bloque la puissance d’une carte adverse à 0",
+  "rarete": 3,
+  "puissance": 4,
+  "image_path": "path"
+ },
+ {
+  "nom": "Infernus",
+  "clan": "Diable",
+  "type": "Feu",
+  "effet": "Domination : -1 à toutes les cartes de type “Corrompu” de votre adversaire",
+  "rarete": 3,
+  "puissance": 4,
+  "image_path": "path"
+ },
+ {
+  "nom": "Chisinsin",
+  "clan": "Chien",
+  "type": "Fruit",
+  "effet": "Esprit d’équipe : Gagne 1 pour chaque autre carte Chien ou Fruit que vous con trollez",
+  "rarete": 2,
+  "puissance": 4,
+  "image_path": "path"
+ },
+ {
+  "nom": "Megabot",
+  "clan": "Robot",
+  "type": "Jouet",
+  "effet": " Fusion : Défaussez toutes les cartes Robot et Jouet que vous controllez. Cette carte gagne 2 de puissance par carte défaussée et devient immunisée à tous les effets de carte.",
+  "rarete": 2,
+  "puissance": 4,
+  "image_path": "path"
+ },
+ {
+  "nom": "Protecteur de la forêt",
+  "clan": "Chevalier",
+  "type": "Plante",
+  "effet": "Immunise vos autres cartes Plante contre les effets de cartes adverses",
+  "rarete": 3,
+  "puissance": 4,
+  "image_path": "path"
+ },
+ {
+  "nom": "Navire Volant",
+  "clan": "Pirate",
+  "type": "Air",
+  "effet": "Capitaine : donne +1 aux autres pirates ou Air",
+  "rarete": 2,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Aerobot",
+  "clan": "Robot",
+  "type": "Air",
+  "effet": "Jouez une autre carte Robot ou Air de votre main",
+  "rarete": 0,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Sporo-sentinelle",
+  "clan": "Chevalier",
+  "type": "Champignon",
+  "effet": "Silence : Annule les effets d’une carte adverse",
+  "rarete": 2,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Pignonchutiste",
+  "clan": "Super-héros",
+  "type": "Champignon",
+  "effet": "Sauvetage : Récupérez en main une carte de votre défausse",
+  "rarete": 2,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "L’immergé",
+  "clan": "Diable",
+  "type": "Eau",
+  "effet": "Immunisé : Cette carte est immunisée aux effets des cartes adverses",
+  "rarete": 3,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Mosasaurus",
+  "clan": "Dinosaure",
+  "type": "Eau",
+  "effet": "Sauvetage : Récupérez en main une carte de votre défausse",
+  "rarete": 3,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Echiencelle",
+  "clan": "Chien",
+  "type": "Electricité",
+  "effet": "Serviable : Donne +2 à une autre carte Chien ou Electricité",
+  "rarete": 1,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Dinosaure antique",
+  "clan": "Dinosaure",
+  "type": "Electricité",
+  "effet": "Sabotage : -3 à une carte adverse",
+  "rarete": 3,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Momie enflammée",
+  "clan": "Mort-Vivant",
+  "type": "Feu",
+  "effet": "Cannibale : +1 pour chaque carte dans votre défausse",
+  "rarete": 0,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Pyrowoman",
+  "clan": "Super-héros",
+  "type": "Feu",
+  "effet": "Boost : +2 si vous avez moins de 3 cartes dans votre défausse",
+  "rarete": 2,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Soldat de l’orange",
+  "clan": "Chevalier",
+  "type": "Fruit",
+  "effet": "Bouclier : Immunise une de vos cartes contre les effets des cartes adverses",
+  "rarete": 2,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Gourmandise",
+  "clan": "Diable",
+  "type": "Fruit",
+  "effet": "Possession : Prenez le contrôle d’une carte “Corrompu” de votre adversaire avec une puissance ≤ 2.",
+  "rarete": 3,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Pelubull",
+  "clan": "Chien",
+  "type": "Jouet",
+  "effet": "Fidélité : Si cette carte doit être défaussée, remettez la dans votre deck à la place puis mélangez-le",
+  "rarete": 3,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Pantin pirate",
+  "clan": "Pirate",
+  "type": "Jouet",
+  "effet": "Sang-pur : +2 si vous n’avez que des cartes Pirate ou Jouet",
+  "rarete": 1,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Arbre hanté",
+  "clan": "Mort-Vivant",
+  "type": "Plante",
+  "effet": "Sang-Pur : +2 si vous ne controllez que des cartes Mort-Vivant ou Plante",
+  "rarete": 2,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Vegebot",
+  "clan": "Robot",
+  "type": "Plante",
+  "effet": "Imposteur : Copiez sur cette carte le pouvoir d’une autre carte Robot ou Plante sur le terrain",
+  "rarete": 1,
+  "puissance": 3,
+  "image_path": "path"
+ },
+ {
+  "nom": "Chevalier pégase",
+  "clan": "Chevalier",
+  "type": "Air",
+  "effet": "Serviable : donne +2 à une carte soldat ou air",
+  "rarete": 2,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Toutou volant",
+  "clan": "Chien",
+  "type": "Air",
+  "effet": "X",
+  "rarete": 2,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Pourisseur",
+  "clan": "Diable",
+  "type": "Champignon",
+  "effet": "Corruption : Change le clan ou type d’une carte en “corrompu”",
+  "rarete": 3,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Champirate",
+  "clan": "Pirate",
+  "type": "Champignon",
+  "effet": "X",
+  "rarete": 3,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Soldat des vagues",
+  "clan": "Chevalier",
+  "type": "Eau",
+  "effet": "Insensible : Cette carte est immunisée aux effets de cartes, mêmes les votre",
+  "rarete": 4,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Hydroman",
+  "clan": "Super-héros",
+  "type": "Eau",
+  "effet": "X",
+  "rarete": 1,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Electromonstre",
+  "clan": "Mort-Vivant",
+  "type": "Electricité",
+  "effet": "Électrocution : Défaussez aléatoirement une carte de la main de votre adversaire",
+  "rarete": 3,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Dynabot",
+  "clan": "Robot",
+  "type": "Electricité",
+  "effet": "X",
+  "rarete": 2,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Cerbère à une tête",
+  "clan": "Chien",
+  "type": "Feu",
+  "effet": "X",
+  "rarete": 3,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Flambot",
+  "clan": "Robot",
+  "type": "Feu",
+  "effet": "Capitaine : +1 pour les autres cartes Robot ou Feu que vous contrôlez",
+  "rarete": 0,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Pomme pourrie",
+  "clan": "Mort-Vivant",
+  "type": "Fruit",
+  "effet": "Corruption : Change le clan ou type d’une carte en “corrompu”",
+  "rarete": 2,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Mousse Coco",
+  "clan": "Pirate",
+  "type": "Fruit",
+  "effet": "Troc : Échangez une carte de votre main de votre choix avec une de votre adversaire choisie aléatoirement",
+  "rarete": 2,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Ferosaure",
+  "clan": "Dinosaure",
+  "type": "Jouet",
+  "effet": "Recyclage ; Remettez une carte de votre défausse dans votre deck",
+  "rarete": 1,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Plastique Amazone",
+  "clan": "Super-héros",
+  "type": "Jouet",
+  "effet": "Résurrection : Jouez une carte qui se trouve dans votre défausse",
+  "rarete": 3,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Viridios",
+  "clan": "Diable",
+  "type": "Plante",
+  "effet": "X",
+  "rarete": 2,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Dinosaure végétal",
+  "clan": "Dinosaure",
+  "type": "Plante",
+  "effet": "X",
+  "rarete": 2,
+  "puissance": 2,
+  "image_path": "path"
+ },
+ {
+  "nom": "Dimorphodon",
+  "clan": "Dinosaure",
+  "type": "Air",
+  "effet": "X",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Élémentaire aérien",
+  "clan": "Elémentaire",
+  "type": "Air",
+  "effet": "X",
+  "rarete": 3,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Chauve-souris",
+  "clan": "Mort-Vivant",
+  "type": "Air",
+  "effet": "Espion : Regardez le deck de votre adversaire, puis mélangez-le",
+  "rarete": 1,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Jeune héroïne",
+  "clan": "Super-héros",
+  "type": "Air",
+  "effet": "Reset : Mélangez toute votre main avec votre deck et repiochez autant de cartes",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Dogignon",
+  "clan": "Chien",
+  "type": "Champignon",
+  "effet": "Bouclier : protège une carte des effets des cartes adverses",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Champizard",
+  "clan": "Dinosaure",
+  "type": "Champignon",
+  "effet": "Sang-pur : +2 si vous n’avez que des cartes Dinosaure ou Champignon",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Elementaire Fungus",
+  "clan": "Elémentaire",
+  "type": "Champignon",
+  "effet": "X",
+  "rarete": 3,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Amanite tueuse",
+  "clan": "Mort-Vivant",
+  "type": "Champignon",
+  "effet": "X",
+  "rarete": 1,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Élémentaire océanique",
+  "clan": "Elémentaire",
+  "type": "Eau",
+  "effet": "X",
+  "rarete": 3,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Zombie plongeur",
+  "clan": "Mort-Vivant",
+  "type": "Eau",
+  "effet": "X",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Piratnha",
+  "clan": "Pirate",
+  "type": "Eau",
+  "effet": "Sabotage : -2 à une carte adverse",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Aquabot",
+  "clan": "Robot",
+  "type": "Eau",
+  "effet": "Bouclier : Protège une carte des effets de cartes adverses",
+  "rarete": 1,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Guerrière tonerre",
+  "clan": "Chevalier",
+  "type": "Electricité",
+  "effet": "X",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Shango",
+  "clan": "Diable",
+  "type": "Electricité",
+  "effet": "Sabotage : -2 à une carte adverse",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Élémentaire foudroyant",
+  "clan": "Elémentaire",
+  "type": "Electricité",
+  "effet": "X",
+  "rarete": 3,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Speed Lightning",
+  "clan": "Super-héros",
+  "type": "Electricité",
+  "effet": "Sacrifice : défausse la carte au dessus de votre deck",
+  "rarete": 3,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Diablotin",
+  "clan": "Diable",
+  "type": "Feu",
+  "effet": "Corruption : Change le clan ou type d’une carte en “corrompu”",
+  "rarete": 1,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "T-rex incandescent",
+  "clan": "Dinosaure",
+  "type": "Feu",
+  "effet": "Immunisé : Cette carte est immunisée aux effets des cartes adverses",
+  "rarete": 3,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Élémentaire volcanique",
+  "clan": "Elémentaire",
+  "type": "Feu",
+  "effet": "X",
+  "rarete": 3,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Cannonier",
+  "clan": "Pirate",
+  "type": "Feu",
+  "effet": "X",
+  "rarete": 1,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Labrorange",
+  "clan": "Chien",
+  "type": "Fruit",
+  "effet": "Change une de vos cartes en “Chien” ou “Fruit”",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Élémentaire fruité",
+  "clan": "Elémentaire",
+  "type": "Fruit",
+  "effet": "X",
+  "rarete": 3,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Vitabot",
+  "clan": "Robot",
+  "type": "Fruit",
+  "effet": "X",
+  "rarete": 1,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Capitaine Banana",
+  "clan": "Super-héros",
+  "type": "Fruit",
+  "effet": "X",
+  "rarete": 3,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Fier chevalier",
+  "clan": "Chevalier",
+  "type": "Jouet",
+  "effet": "X",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Diabolo",
+  "clan": "Diable",
+  "type": "Jouet",
+  "effet": "X",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Élémentaire plastique",
+  "clan": "Elémentaire",
+  "type": "Jouet",
+  "effet": "X",
+  "rarete": 3,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Cybot",
+  "clan": "Robot",
+  "type": "Jouet",
+  "effet": "Regardez les 3 premières cartes de votre deck et replacez les dans l’ordre de votre choix",
+  "rarete": 1,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Druide hibou",
+  "clan": "Chevalier",
+  "type": "Plante",
+  "effet": "Héroîsme : +2 si l’adversaire à une carte avec une puissance ≥4",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Phyllochien",
+  "clan": "Chien",
+  "type": "Plante",
+  "effet": "Jouez une autre carte Chien ou Plante de votre main",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Élémentaire verdoyant",
+  "clan": "Elémentaire",
+  "type": "Plante",
+  "effet": "X",
+  "rarete": 3,
+  "puissance": 1,
+  "image_path": "path"
+ },
+ {
+  "nom": "Jungle profonde",
+  "clan": "Pirate",
+  "type": "Plante",
+  "effet": "Casse-muraille : Détruit le bouclier d’une carte",
+  "rarete": 2,
+  "puissance": 1,
+  "image_path": "path"
+ }
+]
